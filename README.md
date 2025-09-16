@@ -13,11 +13,6 @@
 ## 🛠️ Tools & Skills
 - **Languages**: Python, R  
 - **Libraries**: Pandas, NumPy, Scikit-learn, TensorFlow, ggplot2
-- 
----
-
-## 🌱 Currently
-- Building my portfolio site on [GitHub Pages](https://michellekituku.github.io)   
 
 ---
 
