@@ -6,7 +6,7 @@
 ---
 
 ## 🔥 Projects
-👉 [View all my projects here]
+👉 [View all my projects here](https://github.com/michellekituku/Michelle-s-Portfolio)
 
 ---
 
