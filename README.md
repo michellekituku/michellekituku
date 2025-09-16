@@ -12,7 +12,7 @@
 
 ## 🛠️ Tools & Skills
 - **Languages**: Python, R  
-- **Libraries**: Pandas, NumPy, Scikit-learn, TensorFlow, ggplot2
+- **Visualizations**: Power BI
 
 ---
 
