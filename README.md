@@ -1,7 +1,7 @@
 # Hi there, I'm Michelle 👋  
 
-🎓 Data Science student at the United States International University (USIU) Africa, expected to graduate in October 2026.  
-💻 Skilled in Python, R, and visualization tools.    
+🎓 Final-year Data Science & Analytics student at the United States International University (USIU) Africa, expected to graduate in October 2026.  
+💻 Skilled in Python, R, SQL and visualization tools.    
 
 ---
 
@@ -11,11 +11,13 @@
 ---
 
 ## 🛠️ Tools & Skills
-- **Languages**: Python, R  
+- **Languages**: Python, R, SQL, Java, C++ 
 - **Visualizations**: Power BI
+- **Databases**: MySQL, NoSQL
 
 ---
 
 ## 📫 Connect With Me
-- Email: michelle.kituku@gmail.com  
+- Email: michelle.kituku@gmail.com
+- Linkedin: [Michelle Kituku](https://www.linkedin.com/in/michelle-kituku-07086632b/) 
 
