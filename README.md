@@ -1,6 +1,6 @@
 # Hi there, I'm Michelle 👋  
 
-🎓 Final-year Data Science & Analytics student at the United States International University (USIU) Africa, expected to graduate in October 2026.  
+🎓 Final-year Data Science & Analytics student at the United States International University (USIU) Africa, expected to graduate in September 2026.  
 💻 Skilled in Python, R, SQL and visualization tools.    
 
 ---
